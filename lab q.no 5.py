@@ -1,0 +1,10 @@
+a=int(input("enter the student d: "))
+b=int(input("enter the student e: "))
+c=int(input("enter the student f: "))
+x=(a//2)+(a%2)
+y=(b//2)+(b%2)
+z=(c//2)+(c%2)
+print("d needs",x)
+print("e needs",y)
+print("f needs",z)
+
